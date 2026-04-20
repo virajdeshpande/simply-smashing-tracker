@@ -1,9 +1,338 @@
 {
   "scrapeDate": "2026-04-20",
-  "scrapeTime": "2026-04-20T18:37:38.887Z",
-  "activities": [],
+  "scrapeTime": "2026-04-20T18:47:29.764Z",
+  "activities": [
+    {
+      "name": "Manage Consent",
+      "html": "<div id=\"cmplz-cookiebanner-container\"><div class=\"cmplz-cookiebanner banner-1 banner-a optout cmplz-bottom-right cmplz-categories-type-view-preferences cmplz-show\" aria-modal=\"true\" data-nosnippet=\"true\" role=\"dialog\" aria-live=\"polite\" aria-labelledby=\"cmplz-header-1-optout\" aria-describedby=\"cmplz-message-1-optout\">\n\t<div class=\"cmplz-header\">\n\t\t<div class=\"cmplz-logo\"></div>\n\t\t<div class=\"cmplz-title\" id=\"cmplz-header-1-optout\">Manage Consent</div>\n\t\t<div class=\"cmplz-close\" tabindex=\"0\" rol"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n\n  \n\n    \n\n        \n  \n      \n  <section class=\"activity-grid -wants-top-2-priority \n    \n\">\n\n  \n          <div class=\"grid -wrap activity-grid-wrap -wants-top-2-priority\">\n            \n      \n    \n                    \n              <div class=\"col col--width-1-3 col-grid--row -top-2-priority\">\n            <div class=\"block activity-single grid-activity -tall\">\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/duo-tempe-az-rage-ro"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n\n  \n          <div class=\"grid -wrap activity-grid-wrap -wants-top-2-priority\">\n            \n      \n    \n                    \n              <div class=\"col col--width-1-3 col-grid--row -top-2-priority\">\n            <div class=\"block activity-single grid-activity -tall\">\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/duo-tempe-az-rage-room/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload -has-badges lazyloaded\" data-sizes=\"auto"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n            \n      \n    \n                    \n              <div class=\"col col--width-1-3 col-grid--row -top-2-priority\">\n            <div class=\"block activity-single grid-activity -tall\">\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/duo-tempe-az-rage-room/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload -has-badges lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Doubl"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/duo-tempe-az-rage-room/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload -has-badges lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Double Trouble</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-con"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n  <a href=\"/rage-release-rooms/duo-tempe-az-rage-room/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload -has-badges lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Double Trouble</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=414&amp;zoom=2 [(max-wi"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=414&amp;zoom=2 [(max-width: 414px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=600&amp;zoom=2 [(max-width: 1599px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=600&amp;zoom=2 [(min-width : 1600px)]\" style=\"background-image: "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "<picture style=\"display: none;\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=414&amp;zoom=2\" media=\"(max-width: 414px)\" sizes=\"560px\" srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=414&amp;zoom=2\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Double-Trouble-image-1.jpg?w=600&amp;zoom=2\" media=\"(max-width: 1599px)\" sizes=\"560px\" srcse"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block activity-badges grid-activity\">\n        <ul class=\"activity-badges-list activity__badges__list\">\n      <li class=\"badge -bg--dark\" style=\"background-color:#900909;border-color:#6e0606;\">\n              Most Popular!\n            </li>    </ul>\n    </div>\n\n          "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <ul class=\"activity-badges-list activity__badges__list\">\n      <li class=\"badge -bg--dark\" style=\"background-color:#900909;border-color:#6e0606;\">\n              Most Popular!\n            </li>    </ul>\n    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n      <li class=\"badge -bg--dark\" style=\"background-color:#900909;border-color:#6e0606;\">\n              Most Popular!\n            </li>    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                          <span class=\"from\">From</span>\n            \n                          <span class=\"price -usd\">\n                <span class=\"currency-symbol\">$</span>90</span>\n                                  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n            \n<ul class=\"activity__taxonomies \">\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-0.68,0-1.19-0.51-1.19-1.19\n\t\tC0.85,13.9,4.92,9.8"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n    <div class=\"activity__bar__content\">\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-6\" href=\"/rage-release-rooms/duo-tempe-az-rage-room/\">Double Trouble</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>Demolish inanimate objects including bottles, dishes, glassware, ceramics, printers, keyboards with bats, crow bars, and sledge hammers. Book with your budd"
+    },
+    {
+      "name": "Double Trouble",
+      "html": "\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-6\" href=\"/rage-release-rooms/duo-tempe-az-rage-room/\">Double Trouble</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>Demolish inanimate objects including bottles, dishes, glassware, ceramics, printers, keyboards with bats, crow bars, and sledge hammers. Book with your buddy today!</p>\n      </div>\n    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n          <a id=\"activity-single-6\" href=\"/rage-release-rooms/duo-tempe-az-rage-room/\">Double Trouble</a>\n        "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <p>Demolish inanimate objects including bottles, dishes, glassware, ceramics, printers, keyboards with bats, crow bars, and sledge hammers. Book with your buddy today!</p>\n      "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                                  <div class=\"block activity-buttons grid-activity\">\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251011/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-6\">\n        \n  <span id=\"btn-2\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\""
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251011/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-6\">\n        \n  <span id=\"btn-2\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251011/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-6\">\n        \n  <span id=\"btn-2\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"/rage-release-rooms/duo-tempe-az-rage-room/\" class=\"a-button\" data-mixpanel=\"activity-block-learn-more\" aria-describedby=\"activity-single-6\" tabindex=\"-1\">\n        \n  <span id=\"btn-3\" class=\"button -default-color -quiet\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Learn More\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "4's a Party Rage Room",
+      "html": "\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/group-smash-room-tempe/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">4's a Party Rage Room</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/"
+    },
+    {
+      "name": "4's a Party Rage Room",
+      "html": "\n  <a href=\"/rage-release-rooms/group-smash-room-tempe/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">4's a Party Rage Room</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=414&amp;zoom=2 [("
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=414&amp;zoom=2 [(max-width: 414px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=600&amp;zoom=2 [(max-width: 1599px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=600&amp;zoom=2 [(min-width : 16"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "<picture style=\"display: none;\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=414&amp;zoom=2\" media=\"(max-width: 414px)\" sizes=\"560px\" srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=414&amp;zoom=2\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/4s-a-Party-image-1-e1729527996171.jpg?w=600&amp;zoom=2\" media=\"(max-wi"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                          <span class=\"from\">From</span>\n            \n                          <span class=\"price -usd\">\n                <span class=\"currency-symbol\">$</span>160</span>\n                                  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n            \n<ul class=\"activity__taxonomies \">\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-0.68,0-1.19-0.51-1.19-1.19\n\t\tC0.85,13.9,4.92,9.8"
+    },
+    {
+      "name": "4's a Party Rage Room",
+      "html": "\n    <div class=\"activity__bar__content\">\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-8\" href=\"/rage-release-rooms/group-smash-room-tempe/\">4's a Party Rage Room</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>All breakables are 100% recycled. Safety is paramount. Gear up in our coveralls, gloves and safety visors. (Shoes must cover feet entirely.)</p>\n    "
+    },
+    {
+      "name": "4's a Party Rage Room",
+      "html": "\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-8\" href=\"/rage-release-rooms/group-smash-room-tempe/\">4's a Party Rage Room</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>All breakables are 100% recycled. Safety is paramount. Gear up in our coveralls, gloves and safety visors. (Shoes must cover feet entirely.)</p>\n      </div>\n    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n          <a id=\"activity-single-8\" href=\"/rage-release-rooms/group-smash-room-tempe/\">4's a Party Rage Room</a>\n        "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <p>All breakables are 100% recycled. Safety is paramount. Gear up in our coveralls, gloves and safety visors. (Shoes must cover feet entirely.)</p>\n      "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                                  <div class=\"block activity-buttons grid-activity\">\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251017/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-8\">\n        \n  <span id=\"btn-4\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\""
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251017/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-8\">\n        \n  <span id=\"btn-4\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251017/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-8\">\n        \n  <span id=\"btn-4\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"/rage-release-rooms/group-smash-room-tempe/\" class=\"a-button\" data-mixpanel=\"activity-block-learn-more\" aria-describedby=\"activity-single-8\" tabindex=\"-1\">\n        \n  <span id=\"btn-5\" class=\"button -default-color -quiet\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Learn More\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Office Space",
+      "html": "\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Office Space</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploa"
+    },
+    {
+      "name": "Office Space",
+      "html": "\n  <a href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Office Space</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=414&amp;zoom=2 [(max-width: 414px)]"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=414&amp;zoom=2 [(max-width: 414px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=400&amp;zoom=2 [(max-width: 1599px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=400&amp;zoom=2 [(min-width : 1600px)]\" style=\"background-image: url(&q"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "<picture style=\"display: none;\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=414&amp;zoom=2\" media=\"(max-width: 414px)\" sizes=\"360px\" srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=414&amp;zoom=2\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/Office-Space-image-1.jpg?w=400&amp;zoom=2\" media=\"(max-width: 1599px)\" sizes=\"360px\" srcset=\"htt"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                          <span class=\"from\">From</span>\n            \n                          <span class=\"price -usd\">\n                <span class=\"currency-symbol\">$</span>60</span>\n                                  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n            \n<ul class=\"activity__taxonomies \">\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                  <li class=\"taxonomy\" style=\"order: 3;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-user taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>User</title>\n  <path d=\"M10,0c2.54,0,4.75,2.2,4.75,4.75S12.54,9.49,10,9.49s-4.75-2.2-4.75-4.75S7.46,0,10,0z\"></path>\n\t<path d=\"M10,9.83c5.08,0,8.98,4.07,9.15,8.98c0,0.68-0.51,1.19-1.19,1.19H2.03c-0.68,0-1.19-0.51-1.19-1.19\n\t\tC0.85,13.9,4.92,9.8"
+    },
+    {
+      "name": "Office Space",
+      "html": "\n    <div class=\"activity__bar__content\">\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-4\" href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\">Office Space</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>This is a safe and cathartic exercise allowing individuals 8 years old and up to spend up to 25 minutes in any one of our rage rooms while rocking out to "
+    },
+    {
+      "name": "Office Space",
+      "html": "\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-4\" href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\">Office Space</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>This is a safe and cathartic exercise allowing individuals 8 years old and up to spend up to 25 minutes in any one of our rage rooms while rocking out to your favorite music on Bluetooth speakers"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n          <a id=\"activity-single-4\" href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\">Office Space</a>\n        "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <p>This is a safe and cathartic exercise allowing individuals 8 years old and up to spend up to 25 minutes in any one of our rage rooms while rocking out to your favorite music on Bluetooth speakers.</p>\n      "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                                  <div class=\"block activity-buttons grid-activity\">\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251022/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-4\">\n        \n  <span id=\"btn-6\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\""
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251022/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-4\">\n        \n  <span id=\"btn-6\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/251022/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-4\">\n        \n  <span id=\"btn-6\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"/rage-release-rooms/solo-rage-room-in-tempe-az/\" class=\"a-button\" data-mixpanel=\"activity-block-learn-more\" aria-describedby=\"activity-single-4\" tabindex=\"-1\">\n        \n  <span id=\"btn-7\" class=\"button -default-color -quiet\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Learn More\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Splatter Date Night Experience!",
+      "html": "\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/duo-splatter-paint-room-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Splatter Date Night Experience!</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.c"
+    },
+    {
+      "name": "Splatter Date Night Experience!",
+      "html": "\n  <a href=\"/rage-release-rooms/duo-splatter-paint-room-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Splatter Date Night Experience!</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=414&amp;zoom=2 [(max-wid"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=414&amp;zoom=2 [(max-width: 414px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=400&amp;zoom=2 [(max-width: 1599px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=400&amp;zoom=2 [(min-width : 1600px)]\" style=\"background-image: url(&quot;https://simplysmashi"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "<picture style=\"display: none;\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=414&amp;zoom=2\" media=\"(max-width: 414px)\" sizes=\"360px\" srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=414&amp;zoom=2\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/DSC02151_ARW.jpg?w=400&amp;zoom=2\" media=\"(max-width: 1599px)\" sizes=\"360px\" srcset=\"https://simplysmashing.com/"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                          <span class=\"from\">From</span>\n            \n                          <span class=\"price -usd\">\n                <span class=\"currency-symbol\">$</span>89</span>\n                                  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n            \n<ul class=\"activity__taxonomies \">\n                  <li class=\"taxonomy\" style=\"order: 2;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-hour-class taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>Hour Glass</title>\n  <path d=\"M15.99,17.67c0.15,0,0.27,0,0.41,0.03c0.63,0.09,1.07,0.67,0.98,1.3c-0.04,0.29-0.2,0.56-0.43,0.74\n  \tc-0.21,0.17-0.48,0.26-0.76,0.25c-0.48,0-0.95,0-1.43,0H4.62C4."
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                  <li class=\"taxonomy\" style=\"order: 2;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-hour-class taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>Hour Glass</title>\n  <path d=\"M15.99,17.67c0.15,0,0.27,0,0.41,0.03c0.63,0.09,1.07,0.67,0.98,1.3c-0.04,0.29-0.2,0.56-0.43,0.74\n  \tc-0.21,0.17-0.48,0.26-0.76,0.25c-0.48,0-0.95,0-1.43,0H4.62C4.41,20,4.2,19.95,4,19.85c-0.56-0.3-0.77-1.01-0.47"
+    },
+    {
+      "name": "Splatter Date Night Experience!",
+      "html": "\n    <div class=\"activity__bar__content\">\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-10\" href=\"/rage-release-rooms/duo-splatter-paint-room-az/\">Splatter Date Night Experience!</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      </d"
+    },
+    {
+      "name": "Splatter Date Night Experience!",
+      "html": "\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-10\" href=\"/rage-release-rooms/duo-splatter-paint-room-az/\">Splatter Date Night Experience!</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      </div>\n    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n          <a id=\"activity-single-10\" href=\"/rage-release-rooms/duo-splatter-paint-room-az/\">Splatter Date Night Experience!</a>\n        "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                                  <div class=\"block activity-buttons grid-activity\">\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/378289/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-10\">\n        \n  <span id=\"btn-8\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/378289/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-10\">\n        \n  <span id=\"btn-8\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/378289/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-10\">\n        \n  <span id=\"btn-8\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"/rage-release-rooms/duo-splatter-paint-room-az/\" class=\"a-button\" data-mixpanel=\"activity-block-learn-more\" aria-describedby=\"activity-single-10\" tabindex=\"-1\">\n        \n  <span id=\"btn-9\" class=\"button -default-color -quiet\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Learn More\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Splatter Party Room Experience!",
+      "html": "\n              \n      <article class=\"activity-single__inner activity-single--card\">\n  <a href=\"/rage-release-rooms/group-splatter-room-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Splatter Party Room Experience!</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/w"
+    },
+    {
+      "name": "Splatter Party Room Experience!",
+      "html": "\n  <a href=\"/rage-release-rooms/group-splatter-room-az/\" target=\"_self\" tabindex=\"-1\" class=\"lazypreload lazyloaded\" data-sizes=\"auto\" data-mixpanel=\"activity-grid-block\">\n      <span class=\"visually-hidden\">Splatter Party Room Experience!</span>\n      <span class=\"activity__image  -image-hover-fade -reverse\">\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=414&amp;zoom=2 [(max-width"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <span class=\"activity__image-bg lazypreload lazyloaded\" data-bgset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=414&amp;zoom=2 [(max-width: 414px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=400&amp;zoom=2 [(max-width: 1599px)] | https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=400&amp;zoom=2 [(min-width : 1600px)]\" style=\"background-image: url(&quot;https://simply"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "<picture style=\"display: none;\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=414&amp;zoom=2\" media=\"(max-width: 414px)\" sizes=\"360px\" srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=414&amp;zoom=2\"><source data-srcset=\"https://simplysmashing.com/wp-content/uploads/sites/7564/2024/10/paint-room-fun.jpg?w=400&amp;zoom=2\" media=\"(max-width: 1599px)\" sizes=\"360px\" srcset=\"https://simplysmashin"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                          <span class=\"from\">From</span>\n            \n                          <span class=\"price -usd\">\n                <span class=\"currency-symbol\">$</span>169</span>\n                                  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n            \n<ul class=\"activity__taxonomies \">\n                  <li class=\"taxonomy\" style=\"order: 2;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-hour-class taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>Hour Glass</title>\n  <path d=\"M15.99,17.67c0.15,0,0.27,0,0.41,0.03c0.63,0.09,1.07,0.67,0.98,1.3c-0.04,0.29-0.2,0.56-0.43,0.74\n  \tc-0.21,0.17-0.48,0.26-0.76,0.25c-0.48,0-0.95,0-1.43,0H4.62C4."
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                  <li class=\"taxonomy\" style=\"order: 2;\">\n        <span class=\"taxonomy-label\" aria-hidden=\"true\">\n          <svg class=\"icon icon-hour-class taxonomy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\">\n  <title>Hour Glass</title>\n  <path d=\"M15.99,17.67c0.15,0,0.27,0,0.41,0.03c0.63,0.09,1.07,0.67,0.98,1.3c-0.04,0.29-0.2,0.56-0.43,0.74\n  \tc-0.21,0.17-0.48,0.26-0.76,0.25c-0.48,0-0.95,0-1.43,0H4.62C4.41,20,4.2,19.95,4,19.85c-0.56-0.3-0.77-1.01-0.47"
+    },
+    {
+      "name": "Splatter Party Room Experience!",
+      "html": "\n    <div class=\"activity__bar__content\">\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-12\" href=\"/rage-release-rooms/group-splatter-room-az/\">Splatter Party Room Experience!</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      </div>\n"
+    },
+    {
+      "name": "Splatter Party Room Experience!",
+      "html": "\n      <div class=\"block\">\n        \n        <h4 class=\"activity__title -use-headline-font \">\n          <a id=\"activity-single-12\" href=\"/rage-release-rooms/group-splatter-room-az/\">Splatter Party Room Experience!</a>\n        </h4>\n                      </div>\n      <div class=\"block prose activity__summary\">\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      </div>\n    "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n          <a id=\"activity-single-12\" href=\"/rage-release-rooms/group-splatter-room-az/\">Splatter Party Room Experience!</a>\n        "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n        <p>If you’re looking for more fun, we offer blank canvasses to create your own art to take home! Pricing available in shop!</p>\n      "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                                  <div class=\"block activity-buttons grid-activity\">\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/390536/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-12\">\n        \n  <span id=\"btn-10\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"labe"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n              <div class=\"block button-block grid-activity\">\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/390536/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-12\">\n        \n  <span id=\"btn-10\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span"
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"https://fareharbor.com/embeds/book/simplysmashingllc/items/390536/calendar/?ref=https%3A%2F%2Fsimplysmashing.com\" class=\"a-button\" data-mixpanel=\"activity-grid-block\" aria-describedby=\"activity-single-12\">\n        \n  <span id=\"btn-10\" class=\"button -default-color -loud\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Book Now\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    },
+    {
+      "name": "Unknown Activity",
+      "html": "\n                <a href=\"/rage-release-rooms/group-splatter-room-az/\" class=\"a-button\" data-mixpanel=\"activity-block-learn-more\" aria-describedby=\"activity-single-12\" tabindex=\"-1\">\n        \n  <span id=\"btn-11\" class=\"button -default-color -quiet\">\n    <span class=\"inner\">\n              <span class=\"label\">\n          \n          Learn More\n        </span>\n\n                  </span>\n  </span>\n\n    </a>\n  \n  "
+    }
+  ],
   "rawSlots": [],
   "errors": [
-    "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://simplysmashing.com/\", waiting until \"networkidle\"\n"
+    "Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object."
   ]
 }
