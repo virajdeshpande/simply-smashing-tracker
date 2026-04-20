@@ -46,9 +46,10 @@ async function scrape() {
     // Step 1: Load homepage
     console.log("Loading homepage...");
     await page.goto("https://simplysmashing.com/", {
-      waitUntil: "networkidle",
-      timeout: 30000,
+      waitUntil: "domcontentloaded",
+      timeout: 60000,
     });
+    await page.waitForTimeout(3000);
 
     // Step 2: Click "Book Now" button
     console.log("Clicking Book Now...");
