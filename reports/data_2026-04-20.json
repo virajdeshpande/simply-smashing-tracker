@@ -1,0 +1,9 @@
+{
+  "scrapeDate": "2026-04-20",
+  "scrapeTime": "2026-04-20T18:37:38.887Z",
+  "activities": [],
+  "rawSlots": [],
+  "errors": [
+    "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://simplysmashing.com/\", waiting until \"networkidle\"\n"
+  ]
+}
