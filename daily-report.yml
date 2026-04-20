@@ -1,0 +1,102 @@
+name: Simply Smashing Daily Booking Report
+
+on:
+  schedule:
+    # 7:00 AM Pacific Time = 15:00 UTC (PST) / 14:00 UTC (PDT)
+    # Using 14:00 UTC to cover PDT (Pacific Daylight Time, UTC-7)
+    - cron: "0 14 * * *"
+
+  # Also allow manual trigger from the GitHub UI
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Scrape Booking Availability
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # needed to commit reports back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history so we can diff previous reports
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: .
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run scraper
+        id: scrape
+        run: node scripts/scrape.js
+        continue-on-error: true  # don't fail the whole job if scrape has issues
+
+      - name: Check if report files were created
+        id: check_files
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          if [ -f "reports/report_${TODAY}.md" ]; then
+            echo "report_exists=true" >> $GITHUB_OUTPUT
+            echo "report_date=${TODAY}" >> $GITHUB_OUTPUT
+          else
+            echo "report_exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit reports to repository
+        if: steps.check_files.outputs.report_exists == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --staged --quiet || git commit -m "Daily report: ${{ steps.check_files.outputs.report_date }}"
+          git push
+
+      - name: Upload report as artifact
+        if: steps.check_files.outputs.report_exists == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: booking-report-${{ steps.check_files.outputs.report_date }}
+          path: |
+            reports/report_*.md
+            reports/screenshot_*.png
+          retention-days: 30
+
+      - name: Print report summary
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          if [ -f "reports/report_${TODAY}.md" ]; then
+            echo "=== TODAY'S REPORT ==="
+            cat "reports/report_${TODAY}.md"
+          else
+            echo "No report file found for today."
+          fi
+
+      - name: Send email notification
+        if: steps.check_files.outputs.report_exists == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.GMAIL_USERNAME }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "Simply Smashing Booking Report — ${{ steps.check_files.outputs.report_date }}"
+          to: ${{ secrets.NOTIFY_EMAIL }}
+          from: Simply Smashing Tracker <${{ secrets.GMAIL_USERNAME }}>
+          body: |
+            Daily booking availability report for Simply Smashing.
+            Date range monitored: April 20 – May 9, 2025
+
+            See the full report attached, or view it at:
+            https://github.com/${{ github.repository }}/blob/main/reports/report_${{ steps.check_files.outputs.report_date }}.md
+          attachments: reports/report_${{ steps.check_files.outputs.report_date }}.md
+        continue-on-error: true  # don't fail if email sending fails
